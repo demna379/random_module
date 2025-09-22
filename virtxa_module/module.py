@@ -86,3 +86,6 @@ def likes(names):
 
 def important():
     return webbrowser.open('https://youtu.be/xvFZjo5PgG0')
+
+def virtxa_deme():
+    return webbrowser.open('https://www.facebook.com/people/Demna-Maisuradze/pfbid0GH2qHUBRCEE2aJzTHkYFkXoSWP75dEY6uKretUYshtms7RWnPH3EjTcBJ7Gvn67hl/#')
